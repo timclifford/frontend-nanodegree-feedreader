@@ -8,7 +8,7 @@ This project provided experience with writing tests for an application using [Ja
 **Aim:**
 
 
-* Show how to use Jasmine for testing purposes. The tests proof to be useful in testing the underlying functionality of the application, the business logic,as well as event handling and DOM manipulation.
+* Show how to use Jasmine for testing purposes. The tests proved to be useful in testing the underlying functionality of the application, the business logic,as well as event handling and DOM manipulation.
 
 ###How to run the tests:
 
